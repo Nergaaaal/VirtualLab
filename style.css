@@ -1,0 +1,103 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.fullScreen {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16pt;
+    text-shadow: 1px 0px 0px black;
+    background-image: url(Фон1.jpg);
+    -webkit-background-composite: unset;
+    color: white;
+    
+  }
+
+.First {
+    padding-top: 200px;
+}
+
+.Spisok {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+}
+
+.Business {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Site {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Message {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.AD {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Excel {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Test {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Result {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.View {
+    text-align: center;
+}
+
+.Labs {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.top-menu {
+    padding-top: 7%;
+    padding-left: 10%;
+    font-size: 18pt;
+}
+
+footer{
+    background-color: aqua;
+    color: #868686;
+    font-family: 'Arial';
+    font-size: 14pt;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: normal;
+    vertical-align: baseline;
+    text-align: center;
+    padding: 10px 300px 10px 300px;
+}
