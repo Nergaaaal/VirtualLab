@@ -1,0 +1,213 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.fullScreen {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16pt;
+    text-shadow: 1px 0px 0px black;
+    background-image: url(Фон1.jpg);
+    -webkit-background-composite: unset;
+    color: white;
+
+  }
+
+.First {
+    padding-top: 200px;
+}
+
+.SpisokFirst {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-size: 18pt;
+    padding: 50px;
+}
+
+.Photo {
+    width: 500px;
+    height: 300px;
+    padding-left: 30%;
+}
+
+.Photo2 {
+    width: 1000px;
+    height: 600px;
+    padding-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Photo3 {
+    width: 1000px;
+    height: 600px;
+    padding-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Photo4 {
+    width: 700px;
+    height: 500px;
+    padding-left: 25%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Photo5 {
+    width: 700px;
+    height: 500px;
+    padding-left: 25%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.SpisokBusiness {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-size: 16pt;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.SpisokSite {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-size: 16pt;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.SpisokMessage {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-size: 16pt;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.SpisokAD {
+    background-color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-size: 16pt;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.Business {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Site {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Message {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.AD {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Excel {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Test {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.Result {
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+
+.View {
+    text-align: center;
+}
+
+.LabsFirst {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.Labs {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.top-menu {
+    padding-top: 7%;
+    padding-left: 10%;
+    font-size: 18pt;
+}
+
+.line {
+    border-bottom: 1px solid #f00;
+}
+
+.line1 {
+    border-bottom: 1px solid #f00;
+}
+
+.line2 {
+    border-bottom: 1px solid #f00;
+}
+
+.line3 {
+    border-bottom: 1px solid #f00;
+}
+
+footer{
+    background-color: rgb(220, 223, 229);
+    color: #534e4e;
+    font-family: 'Arial';
+    font-size: 14pt;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: normal;
+    vertical-align: baseline;
+    text-align: center;
+    padding: 10px 300px 10px 300px;
+}
